@@ -47,4 +47,3 @@ Web development <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeisme&layout=compact&theme=vue&hide_border=true" />
  
  
-[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nikeisme827)](https://solved.ac/nikeisme827)
