@@ -6,7 +6,7 @@
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
-<a href="mailto:nikeisme827@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nikeisme827@gmail.com"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 
 
 </p>
