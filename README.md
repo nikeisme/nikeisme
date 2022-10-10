@@ -1,17 +1,15 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+현재 백엔드 개발자가 되기 위해 공부하고 있습니다.
 
-## About me 
-:pencil: I'm currently learnig Basic Programing skills like Python,JAVA,django,springboot.<br/>
-
-<h3 align="center"><b>📚 TechStack 📚</b></h3>
+<h3 align="center"><b> Tech Stack </b></h3> 
+</br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
-</p>
-
-<h3 align="center"><b>📚 Once I've used 📚</b></h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" />          
+</p>      
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
@@ -20,8 +18,12 @@
 </p>
 
 
-<!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nikeisme&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeisme&layout=compact&theme=vue&hide_border=true" />
+---------
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nikeisme&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeisme&layout=compact&theme=vue&hide_border=true" />
+</p> 
  
  
