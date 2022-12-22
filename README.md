@@ -1,5 +1,4 @@
 ### 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-현재 백엔드 개발자가 되기 위해 공부하고 있습니다.
 
 <h3 align="center"><b> Tech Stack </b></h3> 
 </br>
